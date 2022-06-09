@@ -2,6 +2,8 @@
 ;;; Copyright (c) 2012 Heikki Vesalainen
 ;;; For information on the License, see the LICENSE file
 
+(require 'thingatpt)
+
 (require 'scala-mode-syntax)
 (require 'scala-mode-lib)
 
