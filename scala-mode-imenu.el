@@ -4,6 +4,8 @@
 
 ;;; Code:
 
+(require 'cl-lib)
+
 (require 'scala-mode-syntax)
 
 ;; Make lambdas proper clousures (only in this file)
